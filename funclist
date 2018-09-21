@@ -1,0 +1,15 @@
+_ISR: CODE, 344 0 132
+_read_8bit: CODE, 564 0 35
+_delay_50us: CODE, 746 0 9
+_main: CODE, 11 0 333
+_TM1650_STOP: CODE, 691 0 20
+_TM1650_read: CODE, 763 0 8
+_TM1650_send: CODE, 771 0 7
+_TM1650_START: CODE, 711 0 16
+_TM1650_SystemCmd: CODE, 727 0 10
+___lwdiv: CODE, 522 0 42
+_start: CODE, 640 0 29
+___lwmod: CODE, 604 0 36
+_delay_ms: CODE, 737 0 9
+_write_8bit: CODE, 476 0 41
+Total: 727
